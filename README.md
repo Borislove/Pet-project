@@ -64,10 +64,22 @@ https://github.com/Borislove/RecycleCompany
 
 
 https://github.com/Borislove/TextConverter
+------------------------------
+
+
 
 
 ------------------------------
+## MGP_16
+### Mini Generator Picture
 
+![](https://github.com/Borislove/files/blob/main/1.jpg)
+
+
+https://github.com/Borislove/MGP_16
+
+
+------------------------------
 
 
 
