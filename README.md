@@ -27,3 +27,17 @@
 ------------------------------
 
 
+
+------------------------------
+## X3Z9
+### Почини робота
+
+![](https://github.com/Borislove/files/blob/main/x3z9.jpg)
+
+
+[press to game](https://www.greenfoot.org/scenarios/30888)
+
+
+------------------------------
+
+
