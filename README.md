@@ -100,3 +100,23 @@ https://github.com/Borislove/Keywords
 
 
 
+------------------------------
+## Funny Number
+### Учим цифры (ru/en)
+
+![](https://github.com/Borislove/files/blob/main/FunnyNumbers.jpg)
+
+
+https://github.com/Borislove/MMP/tree/master/src/funny_numbers_1
+
+
+
+[видео](https://www.youtube.com/watch?v=K7QhAhDOk9M)
+
+
+------------------------------
+
+
+
+
+
