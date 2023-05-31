@@ -1,6 +1,16 @@
 # Pet-project
 
 ------------------------------
+## MyLittleMaze
+### Собери все звезды!
+
+![](https://github.com/Borislove/files/blob/main/myMaze.png)
+
+
+[press to game](https://www.greenfoot.org/scenarios/31452)
+
+
+------------------------------
 ## First step
 ### Победи всех жуков!
 
