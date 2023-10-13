@@ -1,6 +1,38 @@
 # Pet-project
 
 ------------------------------
+## Javator
+### Победи всех монстров!
+
+![](https://github.com/Borislove/files/blob/main/javator.png)
+
+
+[press to game](https://www.greenfoot.org/scenarios/32049)
+
+
+
+------------------------------
+## BrickBreaker
+### Разбей кирпич
+
+![](https://github.com/Borislove/files/blob/main/BackgroundBrickBreaker.gif)
+
+
+[press to game](https://www.greenfoot.org/scenarios/32021)
+
+
+------------------------------
+## MyLittleMerhcant
+### купи продай!
+
+![](https://github.com/Borislove/files/blob/main/Pasted%20image%2020230915092623.png)
+
+
+[press to game](https://www.greenfoot.org/scenarios/31798)
+
+
+
+------------------------------
 ## MyLittleMaze
 ### Собери все звезды!
 
