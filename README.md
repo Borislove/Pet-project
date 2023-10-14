@@ -1,6 +1,17 @@
 # Pet-project
 
 ------------------------------
+## SeaBattle
+### Морской бой
+
+![](https://github.com/Borislove/files/blob/main/SeaBattle.png)
+
+
+[press to game](https://www.greenfoot.org/scenarios/32054)
+
+
+
+------------------------------
 ## Javator
 ### Победи всех монстров!
 
