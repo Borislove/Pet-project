@@ -7,6 +7,9 @@ Demo app
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ds-app-py-zmaetvqkgupktqkvwoyv79.streamlit.app/Search)
 
+[source](https://github.com/Borislove/ds-streamlit-py)
+
+
 ------------------------------
 ## SeaBattle
 ### Морской бой
