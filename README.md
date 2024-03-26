@@ -1,4 +1,11 @@
 # Pet-project
+------------------------------
+## Streamlit-DS
+### Небольшой проект
+![](https://github.com/Borislove/files/blob/main/my-steamlit-demo-app.png)
+Demo app
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ds-app-py-zmaetvqkgupktqkvwoyv79.streamlit.app/Search)
 
 ------------------------------
 ## SeaBattle
